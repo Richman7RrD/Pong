@@ -167,3 +167,4 @@ while True:
         break
     elif score_b == maximal_score:
         print("Player B won the game.")
+        break
